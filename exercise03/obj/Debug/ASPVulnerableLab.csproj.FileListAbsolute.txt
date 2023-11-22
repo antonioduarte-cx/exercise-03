@@ -1,0 +1,5 @@
+c:\users\windev\documents\visual studio 2012\Projects\ASPLab\ASPLab\bin\ASPLab.dll
+c:\users\windev\documents\visual studio 2012\Projects\ASPLab\ASPLab\bin\ASPLab.pdb
+c:\users\windev\documents\visual studio 2012\Projects\ASPLab\ASPLab\obj\Debug\ASPLab.dll
+c:\users\windev\documents\visual studio 2012\Projects\ASPLab\ASPLab\obj\Debug\ASPLab.pdb
+C:\Users\WinDev\Documents\Visual Studio 2012\Projects\ASPLab\ASPLab\obj\Debug\ASPLab.csprojResolveAssemblyReference.cache
